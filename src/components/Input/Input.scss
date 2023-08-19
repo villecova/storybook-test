@@ -1,0 +1,21 @@
+.input {
+    border: solid black 1px;
+    border-radius: 4px; 
+    padding: 8px;
+    display: block;
+
+    &__small {
+        font-size: 16px;
+    }
+
+    &__medium {
+        font-size: 30px;
+    }
+
+    &__large {
+        font-size: 50px;
+    }
+}
+
+
+
